@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ecomsy/static/css/main.3975242f.css",
+    "main.js": "/ecomsy/static/js/main.80ff9696.js",
+    "static/media/logo.png": "/ecomsy/static/media/logo.abe38ad162a16fe8cdda.png",
+    "index.html": "/ecomsy/index.html",
+    "main.3975242f.css.map": "/ecomsy/static/css/main.3975242f.css.map",
+    "main.80ff9696.js.map": "/ecomsy/static/js/main.80ff9696.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3975242f.css",
+    "static/js/main.80ff9696.js"
+  ]
+}
